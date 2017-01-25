@@ -1,5 +1,9 @@
 # College Scorecard info
 
+View the results at [https://bradmontgomery.github.io/scorecard_data/](https://bradmontgomery.github.io/scorecard_data/)
+
+___
+
 
 This code pulls some (interesting) information from the
 [college scorecard data set](https://catalog.data.gov/dataset/college-scorecard). (Note: the actual data is at [this link](https://catalog.data.gov/dataset/college-scorecard/resource/b8f3d10b-0974-40db-b5fa-3c87ecae516b)).
