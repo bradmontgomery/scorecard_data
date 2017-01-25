@@ -92,7 +92,7 @@ def main(file='data/CollegeScorecard_Raw_Data/MERGED2014_15_PP.csv'):
     students = 0
 
     # this is a giant hack
-    with open("output.html", "w") as output_file:
+    with open("index.html", "w") as output_file:
         output = (
             "<html><body>"
             "<p>Menu: <a href='#states'>States</a> | "
@@ -151,7 +151,7 @@ def main(file='data/CollegeScorecard_Raw_Data/MERGED2014_15_PP.csv'):
         output += "</body></html>"
         output_file.write(output)
 
-    print("Finished writing report to ../output.html")
+    print("Finished writing report to ../index.html")
 
 
 if __name__ == "__main__":
